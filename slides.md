@@ -115,11 +115,6 @@ NOTE: Could be relative path to images as well...
 
 Linear gradient background 🐟
 
-<section data-background-gradient="linear-gradient(to bottom, #283b95, #17b2c3)">
-</section>
-<section data-background-gradient="radial-gradient(#283b95, #17b2c3)">
-  <h2>🐳</h2>
-
 --
 
 <!-- .slide: data-background-gradient="radial-gradient(#283b95, #17b2c3)" -->
@@ -127,6 +122,14 @@ Linear gradient background 🐟
 ## Backgrounds
 
 Radial gradient background 🐳
+
+--
+
+<!-- .slide: data-background-video="https://static.slid.es/site/homepage/v1/homepage-video-editor.mp4" data-background-video-loop data-background-video-muted -->
+
+## Backgrounds
+
+Video background
 
 --
 
