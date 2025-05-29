@@ -109,6 +109,27 @@ NOTE: Could be relative path to images as well...
 
 --
 
+<!-- .slide: data-background-gradient="linear-gradient(to bottom, #283b95, #17b2c3)" -->
+
+## Backgrounds
+
+Linear gradient background 🐟
+
+<section data-background-gradient="linear-gradient(to bottom, #283b95, #17b2c3)">
+</section>
+<section data-background-gradient="radial-gradient(#283b95, #17b2c3)">
+  <h2>🐳</h2>
+
+--
+
+<!-- .slide: data-background-gradient="radial-gradient(#283b95, #17b2c3)" -->
+
+## Backgrounds
+
+Radial gradient background 🐳
+
+--
+
 <!-- .slide: data-background-iframe="https://semver.org" data-background-interactive -->
 
 ## Backgrounds
