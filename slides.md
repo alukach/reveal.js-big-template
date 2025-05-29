@@ -99,7 +99,7 @@ function SecondExample() {
 ---
 
 
-<!-- .slide: data-background-image="https://placekitten.com/1000/1000" -->
+<!-- .slide: data-background-image="https://images.pexels.com/photos/31202661/pexels-photo-31202661/free-photo-of-spiral-staircase-at-vatican-museum-rome.jpeg?auto=compress&dpr=10" -->
 
 ## Backgrounds
 
