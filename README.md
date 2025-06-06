@@ -3,11 +3,14 @@ This is a starter point for creating slide decks using [reveal.js](https://revea
 The goals here are:
 
 - slides that are easy to write (via Markdown)
-- slide decks that are easy to host (via Github Pages)
+- slide decks that are easy to host (via GitHub Pages)
 
 ## Editing slides
 
 Edit `slides.md`.
+
+> [!TIP]
+> Consider using GitHub codespaces if you would like to edit in the browser.
 
 ## Deployment
 
