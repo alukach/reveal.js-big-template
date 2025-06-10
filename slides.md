@@ -98,6 +98,22 @@ function SecondExample() {
 
 ---
 
+## mermaid.js
+
+<div class="mermaid">
+sequenceDiagram
+    Alice ->> Bob: Hello Bob, how are you?
+    Bob-->>John: How about you John?
+    Bob--x Alice: I am good thanks!
+    Bob-x John: I am good thanks!
+    Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+    Bob-->Alice: Checking with John...
+    Alice->John: Yes... John, how are you?
+</div>
+
+NOTE: Mermaid.js is sensitive to abnormalities (e.g. line-breaks) in the code.
+
+---
 
 <!-- .slide: data-background-image="https://images.pexels.com/photos/31202661/pexels-photo-31202661/free-photo-of-spiral-staircase-at-vatican-museum-rome.jpeg?auto=compress&dpr=10" -->
 
